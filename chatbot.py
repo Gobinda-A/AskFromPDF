@@ -6,7 +6,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="" #Add your API Key Here
 
 #Step1: Upload pdf file
 st.header("AskFromPDF")
