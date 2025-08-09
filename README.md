@@ -46,5 +46,22 @@ It uses **OpenAI’s API** to generate embeddings, stores them in a **FAISS** ve
 6. **Retrieve & Answer** – The most relevant chunks are passed to an LLM (ChatGPT) to generate a natural language answer.
 
 ---
+## 📸 Snapshots of AskFromPDF
 
-## 📂 Project Structure
+1. **UI of the agent built using Streamlit**
+   
+<img width="1920" height="978" alt="image" src="https://github.com/user-attachments/assets/edc744f8-1cce-4aa2-9884-1205959b3c4b" />
+
+2. **Uploaded the PDF of a prose from Class 12 CBSE lesson _"The Last Lesson"_**
+   
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/6abdc958-228a-4417-b7d0-bbcb0416e1d3" />
+
+3. **Asking a question based on the PDF**  
+
+<img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/e229d52a-03d8-40ec-85fa-cd0961f0b5e5" />
+
+4. **Asking another question**  
+
+<img width="1920" height="984" alt="image" src="https://github.com/user-attachments/assets/613f429b-2778-426e-9628-3b69ea5d2e40" />
+
+
